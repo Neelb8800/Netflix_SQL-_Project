@@ -1,6 +1,8 @@
 # Netflix Movies and TV shows Data Analysis using SQL 
 ![Netflix Logo](depositphotos_545712008-stock-photo-february-2022-brazil-photo-illustration.jpg)
+
 Overview
+
 This project entails a comprehensive analysis of Netflix's movies and TV shows dataset using SQL. The aim was to extract valuable insights and address various business questions to understand content trends, audience preferences, and global distribution. By leveraging SQL queries, the project identifies key metrics and patterns in Netflix's content catalog.
 
 Objectives
